@@ -1,6 +1,4 @@
-📚 Sistema de Gerenciamento de Biblioteca Escolar
-https://via.placeholder.com/150x150/4A90E2/FFFFFF?text=BLIB
-
+#📚 Sistema de Gerenciamento de Biblioteca Escolar
 📖 Descrição
 O Sistema de Gerenciamento de Biblioteca Escolar é uma aplicação web desenvolvida para modernizar e automatizar todos os processos de uma biblioteca escolar. Desde o cadastro de livros até o controle de empréstimos, nosso sistema oferece uma solução completa e intuitiva.
 
