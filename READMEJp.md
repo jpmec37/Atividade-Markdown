@@ -3,7 +3,7 @@
 O Sistema de Gerenciamento de Biblioteca Escolar é uma aplicação web desenvolvida para modernizar e automatizar todos os processos de uma biblioteca escolar. Desde o cadastro de livros até o controle de empréstimos, nosso sistema oferece uma solução completa e intuitiva.
 
 📑 Índice
-Funcionalidades
+[Funcionalidades](#funcionalidades)
 
 Tecnologias Utilizadas
 
@@ -21,7 +21,7 @@ Contribuidores
 
 Contato
 
-🚀 Funcionalidades
+🚀 [Funcionalidades](#funcionalidades)
 ➕ Cadastro completo de livros, autores e editoras
 
 👥 Gestão de usuários (alunos, professores, funcionários)
